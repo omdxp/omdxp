@@ -9,9 +9,9 @@ I aspire to be be the best version of myself.
 
 - 📫 reach me out on :  **omarbelghaouti@gmail.com**
 
-<p align="center">
+
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Belghaouti&layout=compact)
-</p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-belghaouti/" target="blank">
   <img align="center" src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png" alt="My LinkedIn" height="30" width="30" />
