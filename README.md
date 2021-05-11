@@ -7,6 +7,7 @@ I aspire to be be the best version of myself.
 <a href="https://omarbelghaouti.space/">Check my portfolio</a>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omar-Belghaouti&show_icons=true&theme=outrun&hide_border=true&border_radius=20" alt="My stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Omar_Belghaouti&theme=outrun&hide_border=true&border_radius=20&layout=compact" alt="My Waka stats" />
 </p>
 
 
